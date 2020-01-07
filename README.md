@@ -1,4 +1,4 @@
 # DemoLib
 Demo lib
 
-![avatar](/img/1578393392.jpg)
+![图](img/1578393392.jpg)
